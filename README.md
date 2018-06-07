@@ -27,7 +27,7 @@ Or, with callback :
 
 ```javascript
 
-const createDomElement = require('create-dom-element')
+const createDomElement = require('dom-element-create')
 
 const coolElement = createDomElement(`
 	<div class="foo">
