@@ -1,6 +1,6 @@
 {
   "name": "dom-element-create",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "create-dom-element.js",
   "scripts": {
