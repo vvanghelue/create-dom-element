@@ -1,10 +1,9 @@
 # Simple way to create a DOM element using built-in browser DOMParser function
 
 ## Installation
-Prevent script injection, with $${myVariable}
 
 ```bash
-	npm install create-dom-element
+npm install create-dom-element
 ```
 
 ## Example
