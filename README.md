@@ -3,14 +3,14 @@
 ## Installation
 
 ```bash
-npm install create-dom-element
+npm install dom-element-create
 ```
 
 ## Example
 
 ```javascript
 
-const createDomElement = require('create-dom-element')
+const createDomElement = require('dom-element-create')
 
 const coolElement = createDomElement(`
 	<div class="foo">
