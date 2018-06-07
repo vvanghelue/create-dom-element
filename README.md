@@ -19,7 +19,7 @@ const coolElement = createDomElement(`
 	</div>
 `)
 
-document.appendChild(coolElement)
+document.body.appendChild(coolElement)
 
 ```
 
@@ -40,6 +40,6 @@ const coolElement = createDomElement(`
 	})
 })
 
-document.appendChild(element)
+document.body.appendChild(element)
 
 ```
