@@ -2,7 +2,7 @@
   "name": "dom-element-create",
   "version": "1.0.1",
   "description": "",
-  "main": "create-dom-element.js",
+  "main": "dom-element-create.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
